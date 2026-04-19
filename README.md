@@ -20,10 +20,6 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 When I'm not working with data, I enjoy learning new things and exploring how data can solve real-world problems. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-
 ## 🔭 What I'm Currently Working On
 
 - **Power BI Dashboard:** Building an interactive sales dashboard to practice data visualization and storytelling.
@@ -63,3 +59,15 @@ When I'm not working with data, I enjoy learning new things and exploring how da
   <img src="https://img.shields.io/badge/KPI%20Reporting-Intermediate-96CEB4?style=flat" alt="KPI Reporting Skill Badge">
   <img src="https://img.shields.io/badge/Pivot%20Tables-Intermediate-FF6B6B?style=flat" alt="Pivot Tables Skill Badge">
 </p>
+
+## 📁 My Projects
+
+<!-- Once you create a repository for each project, replace the links below with the actual links -->
+<!-- Example: [Project Name](https://github.com/your-username/repository-name) -->
+
+| Project | Tool | Description | Link |
+|--------|------|-------------|------|
+| Sales Performance Dashboard | Power BI | An interactive dashboard analysing sales trends, regional performance and KPIs | *Coming Soon* |
+| Budget Tracker | Excel | An automated budget tracker using advanced formulas and pivot tables | *Coming Soon* |
+
+> 🚧 More projects coming soon — I'm actively building my portfolio!
