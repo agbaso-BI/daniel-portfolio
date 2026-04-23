@@ -14,13 +14,13 @@
   <a href="mailto:agbasodaniel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/DanielAgbaso">
+  <a href="https://github.com/agbaso-BI">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=DanielAgbaso&label=Profile+Views&color=58a6ff&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=agbaso-BI&label=Profile+Views&color=58a6ff&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -28,11 +28,7 @@
 
 ## 👋 Hey, I'm Daniel
 
-I'm a data analyst who genuinely enjoys the process of turning raw, messy data into something that actually means something — a clear chart, a well-structured dashboard, or a simple insight that helps a business make a smarter call.
-
-My background is in **Computer Science & IT**, and right now my main tool is **Power BI**, though I'm actively expanding into **Excel**, **Python**, and **SQL**. I like to think of data analysis the way a friend of mine thinks of engineering — you're not just looking at numbers, you're solving a real problem.
-
-When I'm not building dashboards, I'm usually learning something new, exploring how data applies to everyday problems, or chasing that "aha!" moment when a dataset finally makes sense.
+Data analyst with a CS background, currently focused on Power BI — and slowly making Python less scary. I like taking messy data and turning it into something a business can actually use. Still early in my career, but I take the work seriously.
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
@@ -67,31 +63,13 @@ When I'm not building dashboards, I'm usually learning something new, exploring 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-Exploring-E97627?style=flat&logo=tableau&logoColor=white"/>
 </p>
 
-#### 💻 Programming & Automation
+#### 💻 Programming & Data
 <p>
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-Learning-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Learning-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-#### 🧠 Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Dashboard%20Design-Intermediate-45B7D1?style=flat"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Intermediate-4ECDC4?style=flat"/>
-  <img src="https://img.shields.io/badge/KPI%20Reporting-Intermediate-96CEB4?style=flat"/>
-  <img src="https://img.shields.io/badge/Pivot%20Tables-Intermediate-FF6B6B?style=flat"/>
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Intermediate-F7DF1E?style=flat&logoColor=black"/>
-</p>
-
-#### 🔧 Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20365-Productivity-D83B01?style=flat&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
@@ -112,12 +90,12 @@ When I'm not building dashboards, I'm usually learning something new, exploring 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielAgbaso&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAgbaso&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=agbaso-BI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbaso-BI&layout=compact&theme=github_dark&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielAgbaso&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agbaso-BI&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
